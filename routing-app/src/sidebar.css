@@ -1,4 +1,6 @@
 .sideBar{
+	position: relative;
+	bottom: 1vw;
 	width: 20%; 
 	height: 30vw;
 	background-color: hotpink;
