@@ -1,0 +1,14 @@
+.sideBar{
+	width: 20%; 
+	height: 30vw;
+	background-color: hotpink;
+	float: right;
+}
+
+ul{
+	list-style-type: none;
+}
+
+li a{
+	display: block;
+}
