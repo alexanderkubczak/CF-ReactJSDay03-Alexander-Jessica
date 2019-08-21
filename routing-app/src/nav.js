@@ -12,8 +12,8 @@ const Nav = () => {
 			<ul className = "navBar">
 				<li><NavLink to="/" exact activeClassName="active">Home</NavLink></li>
 				<li><NavLink to="/news" exact activeClassName="active">News</NavLink></li>
-				<li><NavLink to="/about" exact activeClassName="active">Contact</NavLink></li>
-				<li><NavLink to="/contact" exact activeClassName="active">About</NavLink></li>
+				<li><NavLink to="/about" exact activeClassName="active">About</NavLink></li>
+				<li><NavLink to="/contact" exact activeClassName="active">Contact</NavLink></li>
 			</ul>
 
 			<main>
