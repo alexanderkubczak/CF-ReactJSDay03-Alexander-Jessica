@@ -4,10 +4,10 @@ import './sidebar.css';
 const Sidebar = () => {
 	return(
 		<ul className = "sideBar">
-		<li>This</li>
-		<li>is</li>
-		<li>a</li>
-		<li>sidebar</li>
+		<li className = "sideList">This</li>
+		<li className = "sideList">is</li>
+		<li className = "sideList">a</li>
+		<li className = "sideList">sidebar</li>
 		</ul>
 		);
 };
