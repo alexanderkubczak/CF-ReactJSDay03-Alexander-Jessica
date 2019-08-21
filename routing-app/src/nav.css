@@ -1,4 +1,5 @@
 .navBar {
+	position: relative;
 	background-color: hotpink;
 	width: 100%;
 	height: 5vw;
