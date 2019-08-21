@@ -1,3 +1,10 @@
 .contactstyle{
 	height: 32vw;
+	width: 75%;
+	object-fit: cover;
+}
+
+.contactstyle img {
+	width: 100%;
+	height: 94%;
 }
