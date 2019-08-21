@@ -1,10 +1,11 @@
 import React from 'react';
-import './News.css'
+import './News.css';
+import logo from './news.jpg';
 
 const NewsComponent = () => {
  return (
     <div className="fake">
-   		News
+   		<img alt="logo" src={logo} />
    </div> 
    )
 }
